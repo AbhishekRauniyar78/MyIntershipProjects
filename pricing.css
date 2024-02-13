@@ -1,0 +1,242 @@
+
+.div{
+ height: 500px;
+width: 250px;
+background-color: #f3f8f7;
+
+margin: 5px;
+display: inline-block;
+position: relative;
+top: 200px;
+left: 400px;
+margin: 20px;
+border-top-left-radius: 30px;
+border-top-right-radius: 30px;
+border-bottom-right-radius: 30px;
+border-bottom-left-radius: 30px;
+transition: 1s;
+
+
+}
+.div:hover{
+    transform: scale(1.2);
+}
+.para{
+    font-size: 30px;
+    text-align: center;
+    color: #ffffff;
+    position: absolute;
+    top: 40PX;
+    left: 80px;
+}
+.price{
+    font-size:30px;
+   position: absolute;
+   top: -5px;
+   left: 20px;
+    color: #f3f8f7;
+}
+#button1{
+    background-color: rgb(43, 226, 98);
+    height:30px ;
+    width: 110px;
+    position: absolute;
+    top: 325px;
+    left: -10px;
+    border-top-right-radius:10px ;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+
+#button2{
+    background-color:rgb(228, 207, 16);
+    height:30px ;
+    width: 110px;
+    position: absolute;
+    top: 325px;
+    left: -10px;
+    border-top-right-radius:10px ;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+#button3{
+    background-color:rgb(9, 131, 94);
+    height:30px ;
+    width: 110px;
+    position: absolute;
+    top: 325px;
+    left: -10px;
+    border-top-right-radius:10px ;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+#button4{
+    background-color: rgb(165, 26, 8);
+    height:30px ;
+    width: 110px;
+    position: absolute;
+    top: 325px;
+    left: -10px;
+    border-top-right-radius:10px ;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+.p1{
+    color: black;
+    position: absolute;
+    top: 250px;
+    left: 28px;
+    text-decoration: underline;
+    font-size: 18px;
+}
+
+.p2{
+    color: black;
+    position: absolute;
+    top: 280px;
+    left: 28px;
+    text-decoration: underline;
+    font-size: 18px;
+}
+.p3{
+    color: black;
+    position: absolute;
+    top: 310px;
+    left: 28px;
+    text-decoration: underline;
+    font-size: 18px;
+}
+.p4{
+    color: black;
+    position: absolute;
+    top:250px;
+    left: 28px;
+    text-decoration: underline;
+    font-size: 18px;
+}
+.p5{
+    color: black;
+    position: absolute;
+    top: 280px;
+    left: 28px;
+    text-decoration: underline;
+    font-size: 18px;
+}
+.p6{
+    color: black;
+    position: absolute;
+    top: 310px;
+    left: 28px;
+    text-decoration: underline;
+    font-size: 18px;
+}
+.p7{
+    color: black;
+    position: absolute;
+    top: 340px;
+    left: 28px;
+    text-decoration: underline;
+    font-size: 18px;
+}
+.p8{
+    color: black;
+    position: absolute;
+    top: 250px;
+    left: 28px;
+    text-decoration: underline;
+    font-size: 18px;
+}
+.p9{
+    color: black;
+    position: absolute;
+    top: 280px;
+    left: 28px;
+    text-decoration: underline;
+    font-size: 18px;
+}
+.p10{
+    color: black;
+    position: absolute;
+    top: 310px;
+    left: 28px;
+    text-decoration: underline;
+    font-size: 18px;
+}
+.p11{
+    color: black;
+    position: absolute;
+    top: 340px;
+    left: 28px;
+    text-decoration: underline;
+    font-size: 18px;
+}
+.p12{
+    color: black;
+    position: absolute;
+    top: 250px;
+    left: 28px;
+    text-decoration: underline;
+    font-size: 18px;
+}
+.p13{
+    color: black;
+    position: absolute;
+    top: 280px;
+    left: 28px;
+    text-decoration: underline;
+    font-size: 18px;
+}
+.p14{
+    color: black;
+    position: absolute;
+    top: 310px;
+    left: 28px;
+    text-decoration: underline;
+    font-size: 18px;
+}
+.p15{
+    color: black;
+    position: absolute;
+    top: 340px;
+    left: 28px;
+    text-decoration: underline;
+    font-size: 18px;
+}
+#icon1{
+    color: #f3f8f7;
+    font-size: 30px;
+    position: relative;
+    justify-content: center;
+    top: 25px;
+    left: 5px;
+}
+
+
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+@media(max-width:1600px){
+    html{
+        font-size: 50%;
+        
+    }
+    body{
+        background-size: 1000%;
+    }
+    
+}
+#heading{
+    font-size: 50px;
+    color: coral;
+    font-family: sans-serif;
+}
+
